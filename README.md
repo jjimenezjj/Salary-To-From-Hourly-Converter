@@ -1,1 +1,1 @@
-# Salary-To-From-Hourly-Converter
+# Salary to hourly converter, and vice versa
